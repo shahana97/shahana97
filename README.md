@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @shahana97
-- 👀 I’m interested in getting eight hour sleep 
-- 🌱 I’m currently learning how to use GitHub
-- 💞️ I’m looking to collaborate on making my life better
-- 📫 How to reach me?...ahh, never mind
+- 👀 I’m always on the hunt of best talent in the job market. 
+- 🌱 I’m looking forward to connecting to people who are in the search of their next career move.
+- 📫 Drop me an email at shasan@arrowcore.com for a quick chat. 
 
 <!---
 shahana97/shahana97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
